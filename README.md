@@ -7,7 +7,7 @@ A third-party Dalamud plugin repository. Not affiliated with the official plugin
 `/xlsettings` → Experimental → Custom Plugin Repositories → add:
 
 ```
-https://raw.githubusercontent.com/AzeraKih/AzeraKih-Plugins/main/pluginmaster.json
+https://raw.githubusercontent.com/BlackScalesAuri/AzeraKih-Plugins/master/pluginmaster.json
 ```
 
 Plugins listed here then show up in `/xlplugins` like any other, updates included. Dalamud
@@ -30,7 +30,7 @@ scripts/Add-Plugin.ps1  - adds/updates one plugin's entry from its Release build
    ```
    .\scripts\Add-Plugin.ps1 `
      -ReleaseOutputDir "<path to the plugin's bin\x64\Release>" `
-     -RepoBaseUrl "https://raw.githubusercontent.com/AzeraKih/AzeraKih-Plugins/main"
+     -RepoBaseUrl "https://raw.githubusercontent.com/BlackScalesAuri/AzeraKih-Plugins/master"
    ```
    This copies `latest.zip` into `plugins/<InternalName>/` and adds or updates that plugin's
    entry in `pluginmaster.json`.

@@ -17,12 +17,12 @@
 
 .PARAMETER RepoBaseUrl
     Raw base URL this repo is served from, e.g.
-    https://raw.githubusercontent.com/AzeraKih/AzeraKih-Plugins/main
+    https://raw.githubusercontent.com/BlackScalesAuri/AzeraKih-Plugins/master
 
 .EXAMPLE
     .\scripts\Add-Plugin.ps1 `
         -ReleaseOutputDir "C:\Users\AzeraKih\Documents\PROJETOS\Dalamud Plugins\HideBeasts\HideBeasts\bin\x64\Release" `
-        -RepoBaseUrl "https://raw.githubusercontent.com/AzeraKih/AzeraKih-Plugins/main"
+        -RepoBaseUrl "https://raw.githubusercontent.com/BlackScalesAuri/AzeraKih-Plugins/master"
 #>
 param(
     [Parameter(Mandatory)] [string]$ReleaseOutputDir,

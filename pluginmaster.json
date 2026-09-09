@@ -6,7 +6,7 @@
         "AssemblyVersion":  "0.0.0.1",
         "Description":  "Automatically disables rendering of Beastmaster beast companions summoned by other players, to reduce visual clutter. Your own beast is never hidden.",
         "ApplicableVersion":  "any",
-        "RepoUrl":  "https://github.com/AzeraKih/AzeraKih-Plugins",
+        "RepoUrl":  "https://github.com/BlackScalesAuri/AzeraKih-Plugins",
         "Tags":  [
                      "beastmaster",
                      "bst",
@@ -20,8 +20,8 @@
         "LoadPriority":  0,
         "Punchline":  "Hides other players\u0027 Beastmaster companions while keeping your own visible.",
         "AcceptsFeedback":  true,
-        "DownloadLinkInstall":  "https://raw.githubusercontent.com/AzeraKih/AzeraKih-Plugins/main/plugins/HideBeasts/latest.zip",
-        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/AzeraKih/AzeraKih-Plugins/main/plugins/HideBeasts/latest.zip",
-        "DownloadLinkTesting":  "https://raw.githubusercontent.com/AzeraKih/AzeraKih-Plugins/main/plugins/HideBeasts/latest.zip"
+        "DownloadLinkInstall":  "https://raw.githubusercontent.com/BlackScalesAuri/AzeraKih-Plugins/master/plugins/HideBeasts/latest.zip",
+        "DownloadLinkUpdate":  "https://raw.githubusercontent.com/BlackScalesAuri/AzeraKih-Plugins/master/plugins/HideBeasts/latest.zip",
+        "DownloadLinkTesting":  "https://raw.githubusercontent.com/BlackScalesAuri/AzeraKih-Plugins/master/plugins/HideBeasts/latest.zip"
     }
 ]
