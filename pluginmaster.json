@@ -3,7 +3,7 @@
     "Author": "AzeraKih",
     "Name": "Hide Beasts",
     "InternalName": "HideBeasts",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "Description": "Automatically disables rendering of Beastmaster beast companions summoned by other players, to reduce visual clutter. Your own beast is never hidden.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/BlackScalesAuri/HideBeasts",
@@ -23,11 +23,11 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1788991947,
-    "DownloadCount": 1,
-    "DownloadLinkInstall": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v0.0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v0.0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v0.0.0.1/latest.zip"
+    "LastUpdated": 1788994070,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v0.0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v0.0.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v0.0.0.2/latest.zip"
   },
   {
     "Author": "AzeraKih",
