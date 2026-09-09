@@ -1,0 +1,31 @@
+name: Generate Repo
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [new-release]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate Repo
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Run generate-repo.ps1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: .\generate-repo.ps1
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pluginmaster.json
+          git diff --cached --quiet || git commit -m "Regenerate pluginmaster.json"
+          git push
