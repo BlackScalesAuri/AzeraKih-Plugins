@@ -4,5 +4,11 @@
     "repo": "HideBeasts",
     "branch": "master",
     "configFolder": "HideBeasts"
+  },
+  {
+    "username": "BlackScalesAuri",
+    "repo": "DutyRouletteLogger",
+    "branch": "main",
+    "configFolder": "DutyRouletteLogger"
   }
 ]
