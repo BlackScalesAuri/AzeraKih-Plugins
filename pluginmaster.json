@@ -3,7 +3,7 @@
     "Author": "AzeraKih",
     "Name": "Hide Beasts",
     "InternalName": "HideBeasts",
-    "AssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "1.0.0.1",
     "Description": "Automatically disables rendering of Beastmaster beast companions summoned by other players, to reduce visual clutter. Your own beast is never hidden.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/BlackScalesAuri/HideBeasts",
@@ -23,11 +23,11 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1788994070,
+    "LastUpdated": 1789002340,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v0.0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v0.0.0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v0.0.0.2/latest.zip"
+    "DownloadLinkInstall": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v1.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v1.0.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v1.0.0.1/latest.zip"
   },
   {
     "Author": "AzeraKih",
@@ -56,7 +56,7 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": 1788993860,
-    "DownloadCount": 0,
+    "DownloadCount": 1,
     "DownloadLinkInstall": "https://github.com/BlackScalesAuri/DutyRouletteLogger/releases/download/v1.0.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BlackScalesAuri/DutyRouletteLogger/releases/download/v1.0.0.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/BlackScalesAuri/DutyRouletteLogger/releases/download/v1.0.0.0/latest.zip"
