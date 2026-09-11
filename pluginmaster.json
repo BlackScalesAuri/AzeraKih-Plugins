@@ -3,8 +3,9 @@
     "Author": "AzeraKih",
     "Name": "Hide Beasts",
     "InternalName": "HideBeasts",
-    "AssemblyVersion": "1.0.0.1",
+    "AssemblyVersion": "1.0.0.3",
     "Description": "Automatically disables rendering of Beastmaster beast companions summoned by other players, to reduce visual clutter. Your own beast is never hidden.",
+    "Changelog": "- Keep Friends', FC members' and Party members' beasts visible - new options in Settings.\n- Lighter and smoother in crowded areas.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/BlackScalesAuri/HideBeasts",
     "IconUrl": "https://raw.githubusercontent.com/BlackScalesAuri/HideBeasts/master/HideBeasts/Images/icon.png",
@@ -23,11 +24,11 @@
     "AcceptsFeedback": true,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1789002340,
-    "DownloadCount": 45,
-    "DownloadLinkInstall": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v1.0.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v1.0.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v1.0.0.1/latest.zip"
+    "LastUpdated": 1789085300,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v1.0.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v1.0.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/BlackScalesAuri/HideBeasts/releases/download/v1.0.0.3/latest.zip"
   },
   {
     "Author": "AzeraKih",
@@ -56,7 +57,7 @@
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdated": 1788993860,
-    "DownloadCount": 1,
+    "DownloadCount": 2,
     "DownloadLinkInstall": "https://github.com/BlackScalesAuri/DutyRouletteLogger/releases/download/v1.0.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/BlackScalesAuri/DutyRouletteLogger/releases/download/v1.0.0.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/BlackScalesAuri/DutyRouletteLogger/releases/download/v1.0.0.0/latest.zip"
